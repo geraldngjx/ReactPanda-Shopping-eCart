@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactPanda-Shopping-eCart/static/css/main.b34bee39.chunk.css",
+    "main.js": "/ReactPanda-Shopping-eCart/static/js/main.7e1aa66a.chunk.js",
+    "main.js.map": "/ReactPanda-Shopping-eCart/static/js/main.7e1aa66a.chunk.js.map",
+    "runtime-main.js": "/ReactPanda-Shopping-eCart/static/js/runtime-main.043d1f2b.js",
+    "runtime-main.js.map": "/ReactPanda-Shopping-eCart/static/js/runtime-main.043d1f2b.js.map",
+    "static/js/2.3439136d.chunk.js": "/ReactPanda-Shopping-eCart/static/js/2.3439136d.chunk.js",
+    "static/js/2.3439136d.chunk.js.map": "/ReactPanda-Shopping-eCart/static/js/2.3439136d.chunk.js.map",
+    "index.html": "/ReactPanda-Shopping-eCart/index.html",
+    "static/css/main.b34bee39.chunk.css.map": "/ReactPanda-Shopping-eCart/static/css/main.b34bee39.chunk.css.map",
+    "static/js/2.3439136d.chunk.js.LICENSE.txt": "/ReactPanda-Shopping-eCart/static/js/2.3439136d.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/ReactPanda-Shopping-eCart/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.043d1f2b.js",
+    "static/js/2.3439136d.chunk.js",
+    "static/css/main.b34bee39.chunk.css",
+    "static/js/main.7e1aa66a.chunk.js"
+  ]
+}
